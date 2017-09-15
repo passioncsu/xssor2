@@ -1,5 +1,5 @@
-# XSS'OR
-XSS'OR - Hack with JavaScript.
+# 基于XSS'OR添加一些东西
+只是自己用,把网上各种工具集中起来目的是方便离线集中使用，不知道授权方便有啥关系没
 
 ## ONLINE
 You can have a try:
